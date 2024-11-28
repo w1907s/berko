@@ -45,7 +45,7 @@ def check_for_updates():
             
             if msg.exec_() == QMessageBox.Yes:
                 new_exe = requests.get(version_info['download_url'])
-                update_file = "KnightMacro_new.exe"
+                update_file = "berk_new_new.exe"
                 
                 with open(update_file, 'wb') as f:
                     f.write(new_exe.content)
