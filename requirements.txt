@@ -1,0 +1,9 @@
+PyQt5
+opencv-python
+numpy
+keyboard
+pywin32
+pillow
+pydirectinput
+requests
+packaging
