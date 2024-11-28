@@ -103,7 +103,7 @@ class MainWindow(QMainWindow):
 
     def show_version(self):
         QMessageBox.information(self, 'Version Bilgisi', 
-                              f'Knight Macro\nVersion: {CURRENT_VERSION}')
+                              f'Discord\nVersion: {CURRENT_VERSION}')
 
 [Geri kalan tüm kodunuz...]
 
