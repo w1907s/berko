@@ -1,2 +1,2 @@
 version=1.0.0
-download_url=https://github.com/w1907s/berko/releases/download/v1.0.0/berk.exe
+download_url=https://github.com/w1907s/berko/releases/download/v1.0.0/main.exe
